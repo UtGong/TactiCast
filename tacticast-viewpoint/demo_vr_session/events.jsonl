@@ -1,0 +1,3 @@
+{"t_ms": 1768869732822, "frame_idx": 0, "type": "manual_target_select", "payload": {"target_type": "ball", "target_id": "ball", "anchor_xy": [50, 34]}}
+{"t_ms": 1768869735822, "frame_idx": 1, "type": "replay_segment", "payload": {"from_frame": 1, "to_frame": 2, "count": 1}}
+{"t_ms": 1768869738422, "frame_idx": 2, "type": "focus_hint_request", "payload": {"reason": "confused"}}

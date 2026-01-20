@@ -1,0 +1,23 @@
+{
+  "session_id": "demo_eb41b048",
+  "user_id": "user_demo_hash",
+  "tactic_id": "tac_1768583550841",
+  "player_id": "A-7",
+  "start_ms": 1768869731622,
+  "end_ms": 1768869746622,
+  "device": {
+    "hmd": "DemoHMD",
+    "fps": 90,
+    "refresh_hz": 90
+  },
+  "locomotion_mode": "fixed",
+  "comfort_settings": {
+    "snap_turn": true
+  },
+  "algorithm": {
+    "algorithm_version": "tacticast_viewpoint_v2_baseline",
+    "config_hash": "demo_cfg_hash",
+    "tactic_hash": "demo_tactic_hash",
+    "seed": 7
+  }
+}

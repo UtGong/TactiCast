@@ -1,0 +1,4 @@
+{"session_id":"demo_sess_001","tactic_id":"tac_1768583550841","player_id":"A-7","frame_idx":0,"chosen_candidate_id":"c0","reward":1.2,"components":{"dwell_bonus":0.2,"manual_select_match":1.0}}
+{"session_id":"demo_sess_001","tactic_id":"tac_1768583550841","player_id":"A-7","frame_idx":1,"chosen_candidate_id":"c1","reward":-0.5,"components":{"replay_penalty":-0.5}}
+{"session_id":"demo_sess_001","tactic_id":"tac_1768583550841","player_id":"A-7","frame_idx":2,"chosen_candidate_id":"c0","reward":-1.0,"components":{"hint_penalty":-1.0}}
+{"session_id":"demo_sess_001","tactic_id":"tac_1768583550841","player_id":"A-7","frame_idx":3,"chosen_candidate_id":"c2","reward":0.7,"components":{"dwell_bonus":0.7}}
